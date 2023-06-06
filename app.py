@@ -78,9 +78,11 @@ DONE:
 - [2023-03-21] 
     - Scrap CS faculty data (see notebooks at https://github.com/wgong/py4kids/tree/master/lesson-11-scrapy/scrap-cs-faculty)
 
+https://github.com/wgong/csinfo/blob/main/app/app.py
+
 """
 __author__ = "wgong"
-SRC_URL = "https://github.com/wgong/cs-faculty"
+SRC_URL = "https://github.com/wgong/csinfo"
 
 #####################################################
 # Imports

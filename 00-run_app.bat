@@ -25,5 +25,4 @@ rem Step 3:
 rem     Launch streamlit app
 rem ============================================================
 
-cd app
 streamlit run app.py
